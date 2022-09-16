@@ -21,5 +21,3 @@ The Experimets create one folder name 'experiments' and proceedes to save everyt
 Contributers can create variables for different learning rates, model optimizers, classification problem types, ... etc.
 
 
-
-https://www.linkedin.com/in/khalid-alnujaidi-9909141a7/
