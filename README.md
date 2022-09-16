@@ -2,7 +2,7 @@ The following script is able to let user choose the **[models - batch sizes]** t
 
 The script autonomusly saves **[training accuracy graph, training loss graph, confusion matrices, classification_report, best weight only using callbacks]**. <br>
 
-The script is meant for multi-class clasification.
+The script is currently meant for multi-class clasification.
 
 The script is friendly to use with only needing to provide the location of your images It expects a structure as follows:
 
@@ -18,6 +18,8 @@ The Experimets create one folder name 'experiments' and proceedes to save everyt
 ![Semantic description of image](output.png "Image Title")
 
 
-Cotributed can create variables for different learning rates, model optimizers, etc.
+Contributers can create variables for different learning rates, model optimizers, classification problem types, ... etc.
+
+
 
 https://www.linkedin.com/in/khalid-alnujaidi-9909141a7/
